@@ -1,5 +1,10 @@
 # prueba-modulo7
 
+## Hosting
+```
+https://prueba-modulo7-83ef0.web.app/#/
+```
+
 ## Project setup
 ```
 npm install
